@@ -1,0 +1,490 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+#logo 
+{
+    margin: 20px 0 5px 20px;
+    width: 15%;
+}
+#home-aside {
+    width: 35%;
+    margin: 10px;
+    float: right;
+    color: #010101;
+    padding: 25px;
+    background-color: #00ffff;
+    word-spacing: 5px;
+    line-height: 30px;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+#cookies{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 15px;
+    margin: 10px;
+    background-color: #FA0;
+    opacity: 50%;
+    color: #000;
+    z-index: 9999;
+}
+#contact-form {
+    margin: 30px;
+    width: 45%;
+}
+#information {
+    padding: 10px;
+    margin: 10px;
+}
+
+#information ul {
+    list-style: none;
+}
+#contact-form [type="submit"] {
+    cursor: pointer;
+    background-color: #84A98C;
+    border-radius: 20px;
+    color: #000000;
+    font-size: 25px;
+    font-weight: bold;
+}
+#contact-form [type="submit"]:hover 
+{
+    background-color: #eefff1;
+}
+#price-table table 
+{
+    width: 100%;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    border-collapse: collapse;
+}
+body
+{
+    background-color:  #9FE2BF;
+    color: #000;
+}
+h1
+{
+    font-size: 2.5em;
+    font-family: "Fredoka One";
+}
+h2
+{
+    font-size: 2em;
+    font-weight: 450;
+}
+h3 
+{
+    font-size: 1.5em;
+}
+
+h4 
+{
+    font-size: 1em;
+    margin-bottom: 0em;
+}
+#video
+{
+    display: block;
+    width: 500px;
+    margin: 10px;
+    border-width: thick;
+    border-style: solid;
+    border-color: #000000;
+}
+#initial
+{
+    background-color: rgb(0, 255, 136);
+    color: rgb(0, 98, 255);
+    clear: both;
+    text-align: center;
+    line-height: 1.5em;
+    letter-spacing: 2em;
+    word-spacing: 2em;
+    text-indent: 3em;
+}
+#name 
+{
+    background-color: rgb(0, 255, 136);
+    color: rgb(0, 98, 255);
+    clear: both;
+    text-align: center;
+    line-height: 1.5em;
+    letter-spacing: 0.2em;
+    word-spacing: -0.2em;
+    text-indent: 3em;
+}
+#price table tr,td 
+{
+    border: 1px solid #000000;
+    padding: 10px;
+}
+tr :nth-child(even)
+{
+    background: #00aeff;
+}
+tr :nth-child(odd)
+{
+    background: #00ff99;
+}
+#copyright
+{
+ background-color: #0026ff;
+ color: #000000;
+ clear: both;
+ text-align: center;
+}
+/* desktop */
+#header-menu
+{
+    background-color: #000000;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+#menupage {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    margin-right: 25px;
+    line-height: 9em;
+}
+#menupage li a {
+    text-decoration: none;
+    color: #9900ff;
+    font-weight: bold;
+    font-size: 30px;
+}
+#hamburger-menu-icon {
+    width: 50px;
+    height: 50px;
+}
+
+#hamburger-menu-check {
+    display: none;
+}
+
+.hamburher-menu-button 
+{
+    display: none;
+}
+#menupage li a:hover {
+    color: #e31010;
+    font-size: 35px;
+    transition: 0.10s;
+}
+#header-menu h1,
+h2 {
+    margin: 5px 0 0 10px;
+}
+#flex-container 
+{
+    display: flex;
+}
+#contact-aside img 
+{
+    width: 300px;
+    margin: 12px;
+    float: right;
+}
+#price-table
+ {
+    width: 70%;
+    margin-bottom: 20px;
+    white-space: nowrap;
+    border-collapse: collapse;
+    margin: 15px;
+}
+#price-table table tr,
+td {
+    border: 1px solid #fffafa;
+    padding: 5px;
+}
+#price-table table tr td 
+{
+    padding: 15px;
+}
+#pic1, #pic2, #pic3 
+{
+    width: 400px;
+}
+#price-aside img
+{
+    float:right;
+    width: 300px;
+    margin: 30px;
+}
+
+#product-article 
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 15px;
+}
+#product-article article
+{
+    margin: 5px 0;
+}
+#product-aside img
+{
+    float: right;
+    width: 300px;
+    margin: 30px;
+}
+#product-article1 
+{
+    grid-row: 1 / 3;
+}
+
+#product-article2 
+{
+    grid-row: 1 / 2;
+}
+
+#product-article3 
+{
+    grid-row: 1 / 5;
+}
+
+#product-article4 
+{
+    grid-row: 3 / 10;
+}
+
+#product-article5
+ {
+    grid-row: 5 / 9;
+}
+
+#product-article6 
+{
+    grid-column: 3 / 4;
+}
+/* Tab */
+@media (max-width: 798px)
+ {
+    #article-container 
+    {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #article-container article:not(:last-of-type)
+     {
+        margin-top: 5%
+    }
+
+    #article-container figure
+    {
+        float: left;
+        margin-right: 10px;
+    }
+
+    #price-container
+     {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #price-overview 
+    {
+        width: 85%;
+    }
+
+    #price-table 
+    {
+        width: 96%;
+        overflow: auto;
+    }
+
+    /* #price-aside  */
+    #price-table+#price-aside
+     {
+        width: 99%;
+    }
+
+    #price-aside ul 
+    {
+        display: flex;
+        gap: 15px;
+    }
+
+    #price-aside ul li:first-child 
+    {
+        display: none;
+    }
+
+    #price-aside ul li img 
+    
+    {
+        width: 90%;
+        border-radius: 15px;
+        height: 190px;
+    }
+    #product-article1 
+    {
+        grid-row: 1 / 3;
+    }
+    #product-article2 
+    {
+        grid-row: 1 / 12;
+    }
+    #product-article3
+     {
+        grid-row: 3 / 36
+    }
+    #product-article4 
+    {
+        display: none;
+    }
+    #product-article5
+    {
+        grid-row: 12 / span 24;
+    }
+    #product-article6 
+    {
+        grid-row: 37 / span 12;
+        grid-column: 3 / 1;
+    }
+    #product-aside img 
+    {
+        height: 220px;
+    }
+    #product-aside ul li:last-child 
+    {
+        display: none;
+    }
+}
+/* Mobile */
+@media (max-width: 480px) 
+{
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    #flex-container 
+    {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    #article-aside 
+    {
+        width: 70%;
+    }
+
+    #article-container 
+    {
+        width: 72%;
+    }
+    #homepage-container article 
+    {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+    #homepage-article-container figure img 
+    {
+        width: 95%;
+    }
+    #video 
+    {
+        margin: 10px;
+        width: 60%;
+    }
+    nav 
+    {
+        display: none;
+    }
+    #menupage 
+    {
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        gap: 14px;
+        padding: 20px;
+        position: relative;
+        background: #000000;
+        top: 100%;
+        right: 100%;
+        width: 185%;
+        line-height: 6em;
+    }
+    .hamburger-menu-button 
+    {
+        display: block;
+        margin: 50px 8px;
+        position: absolute;
+        right: 8px;
+    }
+    #hamburger-menu-check:checked~nav 
+    {
+        display: block;
+    }
+    #contact-container 
+    {
+        flex-direction: column;
+    }
+    #contact-form 
+    {
+        width: 96%;
+    }
+    #contact-aside 
+    {
+        width: 96%;
+    }
+    #contact-aside ul li img 
+    {
+        width: 95%;
+    }
+    #product-article1 
+    {
+        grid-row: 4 / 4;
+    }
+    #product-article2 
+    {
+        grid-row: 5 / 5;
+    }
+    #product-article3 
+    {
+        grid-row: 3 / 3;
+        display: block;
+    }
+    #product-article4 
+    {
+        grid-row: 1 / 3;
+        display: block;
+    }
+    #product-article5 
+    {
+        display: none;
+    }
+    #product-article6 
+    {
+        display: none;
+    }
+    #product-article 
+    {
+        display: grid;
+        grid-template-columns: auto 40%;
+    }
+    #product-aside ul 
+    {
+        display: block;
+    }
+    #product-aside img 
+    {
+        height: 220px;
+        width: 90%;
+        margin: 6px;
+    }
+    #product-aside ul li:last-child 
+    {
+        display: block;
+    }
+    #product-aside 
+    {
+        width: 95%;
+    }
+}
+
