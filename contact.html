@@ -6,75 +6,80 @@
     <meta name="Keywords" content="Sports, Football, inexpensive, Entertainment, information"/>
     <meta name="author" content="Muhammad Faizan"/>
     <title>Fine Sports Corner Contact</title>
+    <link rel="icon"  type="image/svg"  href="./Images/football.svg" />
     <link 
          rel="stylesheet"
          type="text/css"
-         href="css/Style.css"
-         />
+         href="css/style.css" />
 </head>
 
 <body>
     <header class="logo-grid">
-        <img class="logo" src="./Images/Logo.png"/>
-        <h1 class="comapny-initials">FSC</h1>
-        <h2 class="company-name">Fine Sports Center</h2>
+        <img class="logo" id="logo" src="./Images/football.svg" alt="Logo of my Website."/>
+        <h1 class="comapny-initials" id="initial">FSC</h1>
+        <h2 class="company-name" id="name">Fine Sports Corner</h2>
         <nav>
            <ul>
-               <li><a href="index.html">Football Products</a></li>
-               <li><a href="product.html">Football Products Pricing</a></li>
-               <li><a href="pricing.html">Contact Us</a></li>  
+               <li><a href="index.html">Homepage</a></li>
+               <li><a href="product.html">Football Products</a></li>
+               <li><a href="pricing.html">Pricing</a></li>  
            </ul>
         </nav> 
     </header>
     <section>
-        <ul> 
-              <li>Company Name = Fine Sports Tech</li>
-              <li>Address = Haarlem, Netherlands</li> 
-              <li>Phone Number = 0031 659824754</li>
-              <li>Email = contact@finesports.com</li>
+        <ul id="information"> 
+              <li>Company Name: Fine Sports Corner</li>
+              <li>Address: Haarlem, Netherlands</li> 
+              <li>Phone Number: 0031 659824754</li>
+              <li>Email: contact@finesports.com</li>
         </ul>
-        <form>
+        <form id="contact-form">
             <fieldset>
-                <legned><h2>Contact Us</h2></legned>
-                <ul> 
-                <li>
+                <legend><h2>Contact Us</h2></legend>
                 <label for="flname">
-                    First and Last Name&#42 &#58
+                    First and Last Name&#42; &#58;
                 </label>
-                <input type="text" name="flname"/>
-                </li>
-                <li> 
+                <input type="text" id="flname" name="flname"/>  
                     <label for="email">
-                        E-mail Address&#42 &#58
+                        E-mail Address&#42; &#58;
                     </label>
-                    <input type="email" name="email"/>
-                </li>
-                <li>
+                    <input type="email" id="email" name="email"/>              
                     <label for="question">
-                        What is your question about?
+                        What is your question about?&#42;
                     </label>
-                    <select name="question">
+                  
+                    <select name="question" id="question">
                         <option value="info">Information</option>
                         <option value="items">Products</option>
                         <option value="price">Pricing of Products</option>
                         <option value="other">Other question</option>
                     </select>
-                </li>
-                <li>
                     <label for="note">
-                        Note&#42 &#58
-                       <textarea name="note" rows="5" cols="50">
-                       </textarea>
-                        <span>
-                            The note can be up to 5000 characters.
-                        </span> 
-                    </label>
-                </li> 
-
-                </ul>
-
+                        Note&#42; &#58;
+                       <textarea id="note" name="note" rows="5" cols="20">
+                       </textarea> 
+                    </label>              
+                    <button type="submit" id="submit">
+                        Submit
+                    </button> 
             </fieldset>
         </form>
-
+        <section>
+            <aside id="contact-aside">
+                <a href="https://www.inholland.nl/"><img src="./Images/glt.jpg" id="pic1" alt="Goal-Line Technology."/></a> 
+                <a href="https://www.inholland.nl/"><img src="./Images/VAR.png" id="pic2" alt="Video Assistant Referee."/></a>
+                <a href="https://www.inholland.nl/"><img src="./Images/EPTS.jpg" id="pic3" alt="Electronic Performance and Tracking Systems"/></a>
+            </aside>
+        </section>
     </section> 
-</body>    
+    <section id="cookies">
+        <h3>Cookies Statement</h3>
+        <p>We use cookie Statement to personalize user experience.you Automatically accept that we can use cookies by
+            using our website. <a href="#">Read More</a></p>
+        <button>Accept all</button>
+    </section>
+    <footer id="copyright">
+        &copy; Muhammad Faizan
+    </footer>
+ </body>
+</html>
