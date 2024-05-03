@@ -25,7 +25,7 @@
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 <h3 align="left"> Current Endeavors 🔍</h3>
-<p align = "left">Currently I am looking for an internshoip for the upcoming study year 2024-2025 from september</p>
+<p align = "left">Currently I am looking for an internship for the upcoming study year 2024-2025 from september</p>
 <p align = "left"> <h2 align = "left"> Connect with me on: </h2> </p>
 <p align="left">
   <a href="www.linkedin.com/in/muhammad-faizan-a4349a249" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
