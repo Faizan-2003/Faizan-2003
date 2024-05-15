@@ -31,10 +31,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-faizan-a4349a249/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-2003&show_icons=true&locale=en&layout=compact" alt="Faizan-2003" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Faizan-2003&show_icons=true&locale=en" alt="Faizan-2003" /></p>
  -->
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-2003&" alt="Faizan-2003" /></p>
 <!-- -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-2003&" alt="Faizan-2003" /></p>
