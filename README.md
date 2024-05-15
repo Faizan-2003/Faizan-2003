@@ -2,9 +2,6 @@
 <h3 align="center"> Studying Information Technology at Hogeschool Inholland Haarlem, Netherlands</h3>
 <p align="center">I'm a second-year student. I'm drawn to the intricate worlds of both backend and frontend development. My fascination with Artificial Intelligence further propels my exploration into the realm of technology and its limitless possibilities.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizan-2003&label=Profile%20views&color=0e75b6&style=flat" alt="Faizan-2003" /> </p>
-
-
 <h3 align="left">🔧 Technologies & Tools</h3>
 <p align = "left"> <h2 align = "left"> Languages: </h2> </p>
 <p align = "left">
