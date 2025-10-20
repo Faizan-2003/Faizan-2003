@@ -74,7 +74,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/insomnia/insomnia-icon.svg" alt="Insomnia" width="40" height="40"/>
 </p>
 
 ---
