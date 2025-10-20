@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Faizan 👋</h1>
-<h3 align="center">AI & Cloud Engineer | Passionate about Intelligent, Scalable, and User-Centric Systems</h3>
+<h3 align="center">Passionate about Intelligent, Scalable, and User-Centric Systems</h3>
 
 <p align="center">
 🎓 BSc Information Technology student at <b>Inholland University of Applied Sciences</b>, Haarlem, Netherlands.  
@@ -34,43 +34,50 @@
 </p>
 
 #### 🧰 Frameworks & Libraries
-Vue.js • React • Flask • Spring Boot • Quarkus • Bootstrap • Chart.js • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+</p>
 
 #### 🗄️ Databases
-MySQL • MongoDB • PostgreSQL • SQL Server  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+</p>
 
 #### ☁️ Cloud & DevOps
-Azure • Kubernetes/OpenShift • Docker • Serverless • Microservices • CI/CD Pipelines • Monitoring & Logging  
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+</p>
 
----
-
-### 🧪 Featured Projects
-
-#### 🧬 Multiple Sclerosis Detection System
-> *Python, REST API, Vue.js, JavaScript*  
-Developed ML models using MobileNetV2 and ResNet50 for detecting Multiple Sclerosis from RBC images. Focused on model optimization, preprocessing, and high-accuracy classification.
-
-#### 🎵 Music Genre Classification
-> *Custom CNN, VGG, TensorFlow, Python*  
-Designed a multi-label CNN to classify music genres using spectrogram analysis. Evaluated model performance using precision, recall, and F1-score metrics.
-
-#### 💬 Chatbot Assistant for MS Research
-> *Python, Streamlit, Vector DB, Mistral (via Ollama)*  
-Built a context-aware chatbot to assist MS research by using local LLMs and vector retrieval for domain-specific answers.
-
----
-
-### 💼 Professional Experience
-
-- **Lead Front-End Developer** – *New Soft Solutions, Amsterdam* (Nov 2024 – Mar 2025)  
-  Designed responsive UIs and optimized client-side performance for enterprise applications.  
-
-- **Front-End Developer Intern** – *Inholland Innovation Lab, Alkmaar* (Sep 2024 – Jan 2025)  
-  Built a cloud-based agricultural AI detection interface with Vue.js and Azure.  
-
-- **Student Ambassador & Event Organizer** – *Inholland Student Success Centre, Haarlem* (Feb 2023 – Aug 2024)  
-
-- **Front Desk Agent** – *DoubleTree by Hilton, Amsterdam* (Oct 2024 – Present)  
+#### 🛠️ Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="Notion" width="40" height="40"/>
+</p>
 
 ---
 
@@ -79,11 +86,6 @@ Built a context-aware chatbot to assist MS research by using local LLMs and vect
 - Analytical Problem-Solving  
 - Public Speaking & Presentation  
 - Conflict Resolution & Team Leadership  
-
----
-
-### 🌐 Languages
-English (C1, IELTS 7.0) • Urdu • Punjabi  
 
 ---
 
