@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faizan-2003&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
+
 ---
 
 ### 🧠 About Me
