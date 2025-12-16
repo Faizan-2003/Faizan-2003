@@ -1,11 +1,14 @@
 <h1 align="center">Hi, I'm Muhammad Faizan 👋</h1>
-<h3 align="center">Passionate about Intelligent, Scalable, and User-Centric Systems</h3>
+<h3 align="center">AI/Cloud Engineer</h3>
 
 <p align="center">
 🎓 BSc Information Technology student at <b>Inholland University of Applied Sciences</b>, Haarlem, Netherlands.  
 💡 Dedicated to bridging <b>AI</b>, <b>Cloud Computing</b>, and <b>Software Engineering</b> to build systems that solve real-world problems with precision and scalability.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizan-2003&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+</p>
 ---
 
 ### 🧠 About Me
@@ -96,4 +99,4 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-2003&show_icons=true&locale=en&layout=compact" alt="Faizan-2003" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-2003&" alt="Faizan-2003" /></p>
+
