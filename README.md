@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🚀 I am an ambitious and results-driven technologist with a strong foundation in **AI engineering**, **cloud architecture**, and **frontend development**.  
+- 🚀 I am an ambitious and results-driven technologist with a strong foundation in **AI engineering**, **cloud architecture**, and **FullStack development**.  
 - 🌩️ Currently pursuing a **minor in Cloud Computing** after completing a **minor in Artificial Intelligence**.  
 - 🤖 Experienced in designing **ML/DL models** using TensorFlow, PyTorch, and Scikit-learn, and deploying them to cloud environments.  
 - 💻 Proficient in **frontend frameworks (Vue.js, React)** and backend development with **Python, Flask, and Spring Boot**.  
@@ -104,5 +104,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-2003&show_icons=true&locale=en&layout=compact" alt="Faizan-2003" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-2003&show_icons=true&locale=en&layout=compact" alt="Faizan-2003" /></p>
 
