@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Faizan 👋</h1>
-<h3 align="center">AI/Cloud Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
 🎓 BSc Information Technology student at <b>Inholland University of Applied Sciences</b>, Haarlem, Netherlands.  
@@ -98,6 +98,11 @@
 </p>
 
 ---
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Faizan-2003&show_icons=true&locale=en" alt="Faizan-2003" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-2003&show_icons=true&locale=en&layout=compact" alt="Faizan-2003" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan-2003&show_icons=true&locale=en&layout=compact" alt="Faizan-2003" /></p>
 
